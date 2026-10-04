@@ -1,0 +1,6 @@
+{
+  "name": "مسابقة عامة",
+  "description": "تطبيق مسابقة عامة باللغة العربية بواجهة تفاعلية حديثة وثلاثة مستويات صعوبة وأسئلة ثقافية متنوعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#0F5132" />
+                <item android:offset="0.5" android:color="#198754" />
+                <item android:offset="1.0" android:color="#0B3D26" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle luxury geometric circle patterns -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#25FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#18FFFFFF"
+        android:strokeWidth="1"
+        android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0" />
+</vector>
